@@ -14,7 +14,7 @@ html {
 
   #ostrich {
     position: fixed;
-    top: 305px;
+    top: 0;
     right: 0;
   }
 }
